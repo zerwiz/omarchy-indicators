@@ -45,6 +45,12 @@ omarchy bar move io.github.zerwiz.indicators --section left
 omarchy plugin remove io.github.zerwiz.indicators
 ```
 
+## Contributors
+
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) — **zerwiz (Josef Lindbom)**, author and
+maintainer; **David Heinemeier Hansson** for the original `omarchy.indicators`
+widget this plugin derives from.
+
 ## License
 
 MIT — see [LICENSE](LICENSE). Portions © David Heinemeier Hansson.
